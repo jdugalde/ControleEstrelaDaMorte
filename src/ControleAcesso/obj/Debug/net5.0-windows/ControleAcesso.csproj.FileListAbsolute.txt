@@ -1,0 +1,108 @@
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.exe
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.deps.json
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.runtimeconfig.json
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.runtimeconfig.dev.json
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.dll
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ref\ConroleAcesso.dll
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.pdb
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csprojAssemblyReference.cache
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.Forms.frmPrincipal.resources
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.GenerateResource.cache
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.AssemblyInfoInputs.cache
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.AssemblyInfo.cs
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.dll
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ref\ConroleAcesso.dll
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.pdb
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.genruntimeconfig.cache
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.CopyComplete
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.Forms.frmControleNaves.resources
+C:\Users\thiag\Documents\DIO\SQL Server\ControleAcessoEstrelaDaMorte\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.Forms.frmRegistrarEntradaSaida.resources
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.exe
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.deps.json
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.runtimeconfig.json
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.runtimeconfig.dev.json
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ref\ConroleAcesso.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\ConroleAcesso.pdb
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.AssemblyReference.cache
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.Forms.frmControleNaves.resources
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.Forms.frmPrincipal.resources
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.Forms.frmRegistrarEntradaSaida.resources
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.GenerateResource.cache
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.AssemblyInfoInputs.cache
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.AssemblyInfo.cs
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.CoreCompileInputs.cache
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.csproj.CopyComplete
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ref\ConroleAcesso.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.pdb
+C:\Workspace\GIT - VARIOS\ControleAcessoEstrelaDaMorte\src\ConroleAcesso\obj\Debug\net5.0-windows\ConroleAcesso.genruntimeconfig.cache
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.exe
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.deps.json
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.runtimeconfig.json
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.runtimeconfig.dev.json
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ref\ControleAcesso.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.pdb
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.csproj.AssemblyReference.cache
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.csproj.GenerateResource.cache
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.AssemblyInfoInputs.cache
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.AssemblyInfo.cs
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.csproj.CoreCompileInputs.cache
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.csproj.CopyComplete
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ref\ControleAcesso.dll
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.pdb
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.genruntimeconfig.cache
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.Forms.frmControleNaves.resources
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.Forms.frmPrincipal.resources
+C:\Workspace\GIT - VARIOS\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.Forms.frmRegistrarEntradaSaida.resources
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.exe
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.deps.json
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.runtimeconfig.json
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.runtimeconfig.dev.json
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.dll
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ref\ControleAcesso.dll
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\ControleAcesso.pdb
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.csproj.AssemblyReference.cache
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.Forms.frmControleNaves.resources
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.Forms.frmPrincipal.resources
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.Forms.frmRegistrarEntradaSaida.resources
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.csproj.GenerateResource.cache
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.AssemblyInfoInputs.cache
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.AssemblyInfo.cs
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.csproj.CoreCompileInputs.cache
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.csproj.CopyComplete
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.dll
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ref\ControleAcesso.dll
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.pdb
+C:\Workspace\LABS - CONTROLE DE ACESSO A ESTRELA DA MORTE\ControleAcessoStarWarsEstrelaDaMorte\src\ControleAcesso\obj\Debug\net5.0-windows\ControleAcesso.genruntimeconfig.cache
